@@ -13,11 +13,14 @@ const {SENDGRID_API,EMAIL} = require('../config/keys')
 //
 
 
-const transporter = nodemailer.createTransport(sendgridTransport({
-    auth:{
-        api_key:SENDGRID_API
-    }
-}))
+const transporter = nodemailer.createTransport(
+  sendgridTransport({
+    auth: {
+      api_key:
+        "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",
+    },
+  })
+);
 
 router.post('/signup',(req,res)=>{
   const {name,email,password,pic} = req.body 
