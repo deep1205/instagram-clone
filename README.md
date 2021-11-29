@@ -28,7 +28,7 @@ An application where users can:
 
 ## TODO
 - [ ] Search User's
-- [ ] Message Functionality
+
 - [ ] Suggestion Page
 ## Tech Stack
 
@@ -41,9 +41,8 @@ An application where users can:
 - Bootstrap
 - Material UI
 - Material UI Icons
-- Send Grid
 - Cloudinary
-- Nodemailer
+
 
 
 ## Devlopment
