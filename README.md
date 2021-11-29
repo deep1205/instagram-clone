@@ -44,23 +44,8 @@ An application where users can:
 - Cloudinary
 
 
-
-## Devlopment
-
-
-1. Fork this project from the top right of the screen to create a copy of the code.
-2. Download your fork of the project locally on your machine or clone it using git clone 
-
-
-3. Navigate to the folder and run `npm i` for installing all packages & dependencies for the server/backend via npm.
-4. Navigate to the `client` and run `yarn` to install all dependencies & packages required for the frontend via yarn.
-
-5. This project uses external services and APIs which require a secret/API pass-key for operations. Please ensure you obtain a pass-key from all these sources before running the project locally.
-   - [Cloudinary](https://cloudinary.com/users/register/free) : For storing & fetching images.
-   - [MongoDB](https://www.mongodb.com/cloud/atlas) : Either a cloud hosted cluster on Mongo Atlas or your local mongo URL.
-   
-   
-   
+             
+  Made with ❤️ by deepesh arya
    
    
  # Thank You
