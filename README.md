@@ -44,7 +44,12 @@ An application where users can:
 - Cloudinary
 
 
-             
+     This project uses external services and APIs which require a secret/API pass-key for operations. Please ensure you obtain a pass-key from all these sources before running the project locally.
+   - [Cloudinary](https://cloudinary.com/users/register/free) : For storing & fetching images.
+
+   - [MongoDB](https://www.mongodb.com/cloud/atlas) : Either a cloud hosted cluster on Mongo Atlas or your local mongo URL.
+
+  
  # Made with ❤️ by deepesh arya
    
    
